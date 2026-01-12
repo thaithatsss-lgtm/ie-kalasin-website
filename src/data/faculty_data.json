@@ -1,0 +1,669 @@
+[
+  {
+    "id": 11,
+    "name": {
+      "th": "รองศาสตราจารย์ ดร.สุพรรณ สุดสนธิ์",
+      "en": "Assoc. Prof. Dr. Suphan Sodsoon"
+    },
+    "title": "นาย",
+    "academicPosition": "รองศาสตราจารย์",
+    "administrativePosition": "อธิการบดีมหาวิทยาลัยกาฬสินธุ์",
+    "highestDegree": "ปริญญาเอก",
+    "education": [
+      {
+        "degree": "Ph.D.",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยอุบลราชธานี",
+        "year": 2551
+      },
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยเชียงใหม่",
+        "year": 2547
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "ม.เทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น",
+        "year": 2544
+      }
+    ],
+    "expertise": [
+      "Operation Research",
+      "Logistics",
+      "Multi-Criteria Decision Making",
+      "Design of Experiments"
+    ],
+    "expertiseDetails": "Multi-Criteria Decision Making, Optimization",
+    "teaching": "การวิจัยดำเนินงาน",
+    "research": {
+      "totalPublications": 5,
+      "recentWorks": "1. Wichapa, N., & Sodsoon, S. (2022). A Novel Multi-Objective Game IDEA Cross Efficiency Method Based on Boolean Possibility Degree for Ranking Biomass Materials with Interval Data. IEEE Access,15, 96626–96642.\n2. (2023).\n3. Wichapa, N., & Sodsoon, S. (2023). A Relative Closeness Coefficient Model Based on the Distance of Virtual DMUs Cross-Efficiency Method for Ranking Thai Economic Development. Engineering Letters, 2023, Vol 31, Issue 1, p122",
+      "ongoingProjects": null,
+      "interests": "การจัดการโลจิสติกส์และโซ่อุปทาน"
+    },
+    "academicService": null,
+    "experience": null,
+    "awards": null,
+    "contact": {
+      "email": null,
+      "officePhone": null,
+      "mobile": null,
+      "office": null
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/suphan.png",
+    "workHistory": null,
+    "hobbies": null,
+    "messageToStudents": null,
+    "additionalInfo": null
+  },
+  {
+    "id": 6,
+    "name": {
+      "th": "ผศ.ดร.อามิณฑ์ หล้าวงศ์",
+      "en": "Asst. Prof. Dr. Amin Lawong"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "หัวหน้าสาขาวิชาวิศวกรรมอุตสาหการ",
+    "highestDegree": "ปริญญาเอก",
+    "education": [
+      {
+        "degree": "Ph.D.",
+        "field": "วิศวกรรมอุตสาหการ (Industrial Engineering)",
+        "institution": "มหาวิทยาลัยอุบลราชธานี",
+        "year": 2567
+      },
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ (Industrial Engineering)",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2557
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ (Industrial Engineering)",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2548
+      }
+    ],
+    "expertise": [
+      "การวางผังโรงงาน (Plant Layout)",
+      "ระบบอัตโนมัติ (Automation)"
+    ],
+    "expertiseDetails": "Model Optimization in Industrial Engineering",
+    "teaching": "การศึกงานอุตสาหการรม เศรษฐศาสตร์วิศวกรรม การจำลองสถานการณ์ การวางผังโรงงาน\nระบบควบคุมอัตโนมัติ",
+    "research": {
+      "totalPublications": 7,
+      "recentWorks": "Multi-Response Optimization of Robotic Welding Parameters Using a Taguchi-Based Random Forest Model for Dissimilar Joining Materials, Engineering, Technology & Applied Science Research, Vol. 15, No. 5, 2025, 27237-27243, https://doi.org/10.48084/etasr.12124\nการ พัฒนา เตา ชีว มวล สำหรับ การ ย้อม ผ้า แบบ วิถี ถิ่น เดิม ด้วย การ ประยุกต์ ใช้ วิธี การ DMAIC,Engineering Journal of Research and Development,Volume 33Issue 3 July-September 2022",
+      "ongoingProjects": "Model Optimization in Industrial Engineering",
+      "interests": "Manufacturing processes"
+    },
+    "academicService": "โครงการยุวชนอาสา",
+    "experience": "ศูนย์ส่งเสริมอุตสาหกรรมภาคที่ 5 จังหวัดขอนแก่น",
+    "awards": "ไม่มี",
+    "contact": {
+      "email": "amin.la@ksu.ac.th",
+      "officePhone": null,
+      "mobile": "081-7995035",
+      "office": "สาขาวิศวกรรมอุตสาหการ"
+    },
+    "socialLinks": {
+      "googleScholar": "https://scholar.google.com/citations?view_op=list_works&hl=th&hl=th&user=DeElxCoAAAAJ",
+      "researchGate": "ไม่มี",
+      "linkedin": "ไม่มี",
+      "orcid": "ไม่มี"
+    },
+    "photo": "/images/faculty/amin.png",
+    "workHistory": "SNN TOOLS & DIES CO.,LTD (NISSAN KM.32) \nKhon Kaen Glass Industrial Co.,Ltd (Bangkok Glass)",
+    "hobbies": "งานพบปะสังสรรค์",
+    "messageToStudents": "ขยัน มุ่งมั่น สร้างความสำเร็จ",
+    "additionalInfo": "ไม่มี"
+  },
+  {
+    "id": 2,
+    "name": {
+      "th": "ผศ.ดร.วิชยุทธ จันทะรี",
+      "en": "Vichayut Juntaree"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": null,
+    "highestDegree": "ปริญญาเอก",
+    "education": [
+      {
+        "degree": "Ph.D.",
+        "field": "Human Resource Management",
+        "institution": "มหาวิทยาลัยบูรพา",
+        "year": 2562
+      },
+      {
+        "degree": "Master",
+        "field": "Appropriate Technology for Resources Development",
+        "institution": "มหาวิทยาลัยมหิดล",
+        "year": 2540
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วศวกรรมอุตสาหการ",
+        "institution": "สถาบันเทคโนโลยีราชมงคล วิทยาเขตขอนแก่น",
+        "year": 2532
+      }
+    ],
+    "expertise": [
+      "การควบคุมคุณภาพ (Quality Control)",
+      "การจัดการโครงการ (Project Management)"
+    ],
+    "expertiseDetails": "็HRD, Productivities, Welding Engineering, Quality control tools and technique,",
+    "teaching": "safety , welding , Quality management",
+    "research": {
+      "totalPublications": 0,
+      "recentWorks": null,
+      "ongoingProjects": "การวิจัยเชิงปฏิบัติการแบบมีส่วนร่วมเพื่อพัฒนาความฉลาดรู้ด้านการอ่านและการคิดอย่างมีวิจารณญาณสําหรับนักเรียนมัธยมศึกษาตอนต้นของสถานศึกษาสังกัดองค์กรปกครองส่วนท้องถิ่น ผ่านการพัฒนาครูและบูรณาการการใช้ปัญญาประดิษฐ์ (AI) ในจังหวัดกาฬสินธุ",
+      "interests": "็Human capital and development, Productivities"
+    },
+    "academicService": "อนุกรรมการวิทยาลัยชุมชน มุกดาหาร\nกรรมการประจำวิทยาลัยอาชีวศึกษานครราชสีมา\nกรรมการประเมินคุณภาพภายนอก สมศ.\nกรรมการประเมิน ว.PA\nฯลฯ",
+    "experience": "สำนักงานศึกษาธิการจังหวัด นครราชสีมา/ ชัยภูมิ/ ขอนแก่น/ กาฬสินธุ์/บุรีรัมย์/ ร้อยเอ็ด / สารคาม/ อุดรธานี/ ศธภ.12/13/ ฯลฯ",
+    "awards": "เครื่องหมายเชิดชูเกียรติ ครุสดุดี จากครุสภา/ ประกาศเกียรติคุณเสมีสดุดี ศธภ.12 /",
+    "contact": {
+      "email": "vichayut.ju@ksu.ac.th",
+      "officePhone": null,
+      "mobile": "0839399941",
+      "office": "้ห้อง 301 อาคารวิศวกรรมอุตสาหการ"
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/vichayut.png",
+    "workHistory": null,
+    "hobbies": null,
+    "messageToStudents": null,
+    "additionalInfo": null
+  },
+  {
+    "id": 3,
+    "name": {
+      "th": "รศ.ดร. นรงค์  วิชาผา",
+      "en": "Assoc. Prof. Dr. Narong Wichapa"
+    },
+    "title": "นาย",
+    "academicPosition": "รองศาสตราจารย์",
+    "administrativePosition": "อาจารย์ผู้รับผิดชอบหลักสูตร วศ.บ. อุตสาหการ",
+    "highestDegree": "ปริญญาเอก",
+    "education": [
+      {
+        "degree": "Ph.D.",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2560
+      },
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2552
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2542
+      }
+    ],
+    "expertise": [
+      "การวิเคราะห์ข้อมูล (Data Analytics)",
+      "วิจัยดำเนินงาน (Operations Research)",
+      "อื่นๆ (โปรดระบุในช่องถัดไป)"
+    ],
+    "expertiseDetails": "Multi-Criteria Decision Making; Data Envelopment Analysis; Design of Experiments",
+    "teaching": null,
+    "research": {
+      "totalPublications": 30,
+      "recentWorks": "1. A novel Full Multiplicative Data Envelopment Analysis Model for solving Multi-Attribute Decision-Making problems, Decision Analytics Journal, vol. 14, p. 100549, Jan. 2025, doi: 10.1016/j.dajour.2025.100549.\n\n2. A combined DEAV-BWM approach for effective evaluation and ranking of biomass materials in charcoal briquette production, MethodsX, vol. 13, p. 103075, Nov. 2024, doi: 10.1016/j.mex.2024.103075.\n\n3. A novel multiobjective game IDEA Cross-Efficiency method based on Boolean possibility degree for ranking biomass materials with interval data, IEEE Access, vol. 10, pp. 96626–96642, Jan. 2022, doi: 10.1109/access.2022.3205728.",
+      "ongoingProjects": "Data Envelopment Analysis; Mathematical Optimization; Operations Research",
+      "interests": "Muti-Criteria Decision Making for Industrial Engineering"
+    },
+    "academicService": null,
+    "experience": null,
+    "awards": "รางวัลผลงานวิจัยดีเด่น",
+    "contact": {
+      "email": "narong.wi@ksu.ac.th",
+      "officePhone": null,
+      "mobile": "085-0028205",
+      "office": "อาคาร 3 สาขาวิศวกรรมอุตสาหการ"
+    },
+    "socialLinks": {
+      "googleScholar": "https://scholar.google.com/citations?user=NBLqCkAAAAAJ&hl=th",
+      "researchGate": "https://www.researchgate.net/profile/Narong-Wichapa",
+      "linkedin": null,
+      "orcid": "https://orcid.org/0000-0002-7292-8647"
+    },
+    "photo": "/images/faculty/narong.png",
+    "workHistory": "วิศวกรบริษัทเอกชน",
+    "hobbies": "ฟังเพลง อ่านหนังสือ เตะบอล",
+    "messageToStudents": "ทำดีที่สุดในหน้าที่ เพื่อสิ่งที่ดีในอนาคต",
+    "additionalInfo": null
+  },
+  {
+    "id": 10,
+    "name": {
+      "th": "ผศ.วรรณรพ ขันธิรัตน์",
+      "en": "Asst. Prof. wanrop khanthirat"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "ไม่มี",
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        "year": 2550
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ",
+        "institution": "สถาบันเทคโนโลยีราชมงคล",
+        "year": 2546
+      }
+    ],
+    "expertise": [
+      "วิศวกรรมการผลิต (Manufacturing Engineering)"
+    ],
+    "expertiseDetails": "การออกแบบและการผลิต",
+    "teaching": "วิศวกรรมเครื่องจักรกลอัตโนมัติ",
+    "research": {
+      "totalPublications": 2,
+      "recentWorks": "1.Process of Solving Multi-Response Optimization Problems Using a Novel Data \nEnvelopment Analysis Variant-Taguchi Method.   International Journal of Technology 15(6) 2038-2059 (2024) \nReceived June 2024/ Revised July 2024 / Accepted September 2024 \n2. Multi-Response Optimization of an Automated \nGrass-Flower Beating Machine Using Taguchi \nand WASPAS in Broom Production Engineering, Technology & Applied Science Research \nVol. 15, No. 5, 2025, 27542-27550",
+      "ongoingProjects": "การพัฒนาเครื่องขอดเกล็ดปลาประสิทธิภาพสูงสำหรับกระบวนการแปรรูปปลาหลากหลาย                  \nชนิดและหลากหลายขนาดเพื่อขับเคลื่อนศักยภาพกลุ่มผู้ประกอบการผลิตภัณฑ์ปลาแปรรูป \nจังหวัดกาฬสินธุ์",
+      "interests": null
+    },
+    "academicService": "ผู้ทดสอบมาตรฐานฝีมือแรงงานแห่งชาติ สาขาช่างควบคุมเครื่องกลึง CNC ระดับ ๑\nโครงการออมสินยุวพัฒน์รักษ์ถิ่น",
+    "experience": "ผู้ทดสอบมาตรฐานฝีมือแรงงานแห่งชาติ สาขาช่างควบคุมเครื่องกลึง CNC ระดับ ๑",
+    "awards": null,
+    "contact": {
+      "email": "wanrop.kh@ksu.ac.th",
+      "officePhone": null,
+      "mobile": null,
+      "office": null
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/wanrop.png",
+    "workHistory": null,
+    "hobbies": null,
+    "messageToStudents": null,
+    "additionalInfo": null
+  },
+  {
+    "id": 5,
+    "name": {
+      "th": "ผศ.อุทัย ธารพรศรี",
+      "en": "Asst.Prof.Uthai thanpronsri"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "ประธานหลักสูตรวิชาช่างกลโรงงาน",
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยพระจอมเกล้าธนบุรี",
+        "year": 2549
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ",
+        "institution": "สถาบันเทคโนโลยีราชมงคลภาคพายัพ",
+        "year": 2542
+      }
+    ],
+    "expertise": [
+      "วิศวกรรมความปลอดภัย (Safety Engineering)"
+    ],
+    "expertiseDetails": "วิศวกรรมการบำรุงรักษา",
+    "teaching": "งานพื้นฐานทางวิศวกรรม/งานผลิตชิ้นส่วนเครื่องมือกล",
+    "research": {
+      "totalPublications": 0,
+      "recentWorks": null,
+      "ongoingProjects": null,
+      "interests": null
+    },
+    "academicService": null,
+    "experience": null,
+    "awards": null,
+    "contact": {
+      "email": "UTHAI.TH@KSU.AC.TH",
+      "officePhone": null,
+      "mobile": "0956609814",
+      "office": "อาคารปฎิบัติการช่างกลโรงงาน"
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/uthai.jpg",
+    "workHistory": "ทำงานบริษัทเอกชนเกี่ยวกับกระบวนการผลิตข้อต่อน้ำประปาประเภททองเหลือง/เหล็กหล่อ/ครูอัตราจ้างวิทยาลัยเทคนิคเชียงใหม่",
+    "hobbies": "การใช้เครื่องจักรกลเช่น เครื่องกลึง/เจรื่องเจาะ/เครื่องกัด/เครื่องเจียรไน/เครื่องเชื่อมโลหะ ฯลฯ",
+    "messageToStudents": "ต้องมีความมุ่งมั่น/มีความอดทน \"อดทนมุ่งมั่น\" จะสื่อถึงบุคคลที่มีทั้งความแข็งแกร่งทางจิตใจที่จะฝ่าฟันความท้าทาย และมีความตั้งใจแน่วแน่ที่จะทำงานหนักเพื่อเป้าหมายระยะยาว เป็นคุณสมบัติที่สำคัญสำหรับความสำเร็จในหลายๆ ด้านของชีวิต ไม่ว่าจะเป็นการเรียน การทำงาน หรือการใช้ชีวิตส่วนตัว.",
+    "additionalInfo": null
+  },
+  {
+    "id": 1,
+    "name": {
+      "th": "ผู้ช่วยศาสตราจารย์ว่าที่ร้อยตรีอนุชา   ศรีบุรัมย์",
+      "en": "Asst. Prof. Acting Sub L.T. Anucha  Sriburum"
+    },
+    "title": "อื่นๆ",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "งานพัสดุสาขาวิชาวิศวกรรมอุตสาหการ",
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "มหาวิทยาลัยอุบลราชธานี",
+        "year": 2556
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมอุตสาหการ, Industrial Engineering",
+        "institution": "วิศวกรรมอุตสาหการ-ออกแบบการผลิต",
+        "year": 2552
+      }
+    ],
+    "expertise": [
+      "การวางผังโรงงาน (Plant Layout)",
+      "การจัดการโซ่อุปทาน (Supply Chain Management)",
+      "การควบคุมคุณภาพ (Quality Control)",
+      "วิศวกรรมการผลิต (Manufacturing Engineering)",
+      "การออกแบบผลิตภัณฑ์ (Product Design)",
+      "การจัดการโครงการ (Project Management)",
+      "การจัดการลอจิสติกส์ (Logistics Management)",
+      "วิจัยดำเนินงาน (Operations Research)"
+    ],
+    "expertiseDetails": "เขียนแบบเครื่องกลด้วยคอมพิวเตอร์ (Auto CAD, Solid Works)",
+    "teaching": "การเขียนแบบวิศวกรรม, มาตรวิทยาวิศวกรรม, การวางแผนและควบคุมการผลิต, การออกแบบโรงงานอุตสาหกรรม, การจัดการการผลิตและการดําเนินงานสำหรับโซ่อุปทาน, การประเมินศักยภาพด้านโลจิสติกส์และโซ่อุปทาน",
+    "research": {
+      "totalPublications": 4,
+      "recentWorks": "1. Evaluating Optimal Deep Learning Models for Freshness Assessment of Silver Barb Through Technique for Order Preference by Similarity to Ideal Solution with Linear Programming. Computers, 14(3), 105.  (2025). https://doi.org/10.3390/computers14030105 \n 2. Multi-Response Optimization of an Automated Grass-Flower Beating Machine Using Taguchi and WASPAS in Broom Production. Engineering, Technology & Applied Science Research Vol. 15, No. 5, 2025, 27542-27550 27542. (2025).\n 3. Process of Solving Multi-Response Optimization Problems Using a Novel Data Envelopment Analysis Variant-Taguchi Method. International Journal of Technology 15(6) 2038-2059 (2024) \nhttp://ijtech.eng.ui.ac.id  \n 4. A Novel TOPSIS Linear Programming Model Based on the Taguchi Method for Solving the Multi-Response Optimization Problems: A Case Study of a Fish Scale Scraping Machine. Engineered Science; 23; 882. (2023).",
+      "ongoingProjects": "- โครงการวิจัยเรื่อง เครื่องคัดแยกคุณภาพของปลาสำหรับใช้ในกระบวนการแปรรูปผลิตภัณฑ์ปลาโดยใช้วิธีการเรียนรู้เชิงลึก \n- การเพิ่มมูลค่าขยะเปลือกมะพร้าวด้วยการนํามาผลิตเป็นถ่านกัมมันต์เพื่อใช้เป็นตัวดูดซับสารมลพิษในน้ำเสียบ่อกุ้งก้ามกรามจังหวัดกาฬสินธุ\n- การพัฒนาระบบตรวจจับพารามิเตอร์ของนํ้าแบบเรียลไทม์ เพื่อติดตามและควบคุมคุณภาพของนํ้าสำหรับการเลี้ยงกุ้งก้ามกรามในกระชังบก\n- ศึกษาภาพอนาคตแนวโน้มการเปลี่ยนแปลงของสำนักงานอธิการบดี มหาวิทยาลัยกาฬสินธุ์ เพื่อการพัฒนานวัตกรรมเชิงสังคม",
+      "interests": "นวัตกรรมช่วยส่งเสริมศักยภาพในการแปรรูปผลิตภัณฑ์ในท้องถิ่น, การจัดการโลจิสติกส์และโซ่อุปทาน"
+    },
+    "academicService": "- หัวหน้าโครงการย่อย โครงการออมสินยุวพัฒน์รักษ์ถิ่น ปี 2565-ปัจจุบัน \n- โครงการ การจัดตั้ง Smart Startup Company by GSB Startup ผลิตภัณฑ์แปรรูปจากเสื่อกก ภายใต้โครงการสร้างผู้ประกอบการ Micropreneur (GSB Micropreneur Academy) ประจำปี 2566\n- โครงการ การพัฒนากระบวนการผลิตและการตลาดโดยการบูรณาการระหว่างการวางผังโรงงานอย่างเป็นระบบและ เทคโนโลยีดิจิทัลเพื่อเพิ่มรายได้กลุ่มผู้ประกอบการผลิตเครื่องนอน ตำบลหัวงัว อำเภอยางตลาด จังหวัดกาฬสินธุ์  ภายใต้โครงการยุวชนอาสา ประจำปีงบประมาณ พ.ศ. 2568",
+    "experience": "หน่วยงานสำนักงานพัฒนาฝีมือเเรงงานกาฬสินธุ์, บริษัทแป้งมันสมเด็จ จำกัด, บริษัทแป้งมันกาฬสินธุ์ จำกัด, บริษัทจิรัฐพัฒนาการเกษตร จำกัด, บริษัท มิตรผล ไบโอฟูเอล จำกัด (กาฬสินธุ์)",
+    "awards": null,
+    "contact": {
+      "email": null,
+      "officePhone": null,
+      "mobile": null,
+      "office": null
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/anucha.png",
+    "workHistory": null,
+    "hobbies": null,
+    "messageToStudents": null,
+    "additionalInfo": null
+  },
+  {
+    "id": 7,
+    "name": {
+      "th": "ผศ.ศุภกิจ เศิกศิริ",
+      "en": "Asst.Prof. Supakit Sergsiri"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": null,
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "วศ.บ เทคโนโลยีวัสดุ",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+        "year": 2547
+      },
+      {
+        "degree": "Bachelor",
+        "field": "คอ.บ วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยเทคโนโลยีวัสดุ",
+        "year": 2541
+      }
+    ],
+    "expertise": [
+      "วิศวกรรมการผลิต (Manufacturing Engineering)",
+      "การออกแบบผลิตภัณฑ์ (Product Design)",
+      "อื่นๆ (โปรดระบุในช่องถัดไป)"
+    ],
+    "expertiseDetails": "วิศวกรรมวัสดุ",
+    "teaching": "กระบวนการผลิต วัสดุวิศวกรรม  วัสดุและการออกแบบผลิตภัณฑ์",
+    "research": {
+      "totalPublications": 1,
+      "recentWorks": "1. Lawong, A., Nampromma, S., Sudsuansee, T., & Sergsiri, S. (2025). Multi-Response Optimization of Robotic Welding Parameters Using a Taguchi-Based Random Forest Model for Dissimilar Joining Materials. Engineering, Technology & Applied Science Research, 15(5), 27237–27243. https://doi.org/10.48084/etasr.12124",
+      "ongoingProjects": null,
+      "interests": "วิศวกรรมการผลิต กระบวนการเชื่อม และวัสดุ"
+    },
+    "academicService": "โครงการอบรมอาจารย์นิเทศระบบ CIWIE",
+    "experience": "โรงแป้งมันสมเด็จ",
+    "awards": "เลขที่อนุสิทธิบัตร: 25918\nชื่อผลงาน: “สูตรคอนกรีตข้าวเหนียวสำหรับคอนกรีตบล็อกกันร้อน”",
+    "contact": {
+      "email": "supakit.se@ksu.ac.th",
+      "officePhone": null,
+      "mobile": null,
+      "office": 301
+    },
+    "socialLinks": {
+      "googleScholar": "https://scholar.google.com/citations?user=0tejBBgAAAAJ&hl=th",
+      "researchGate": "https://www.researchgate.net/profile/Supakit-Sergsiri?ev=hdr_xprf",
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/supakit_new.png",
+    "workHistory": "อาจารย์ประจำสาขาวิชาวิศวกรรมอุตสาหการ มหาวิทยาลัยเซนต์จอห์น",
+    "hobbies": "งานผลิตวัสดุคอนกรีตผสมวัสดุเหลือทิ้งการเกษตร",
+    "messageToStudents": null,
+    "additionalInfo": null
+  },
+  {
+    "id": 8,
+    "name": {
+      "th": "ผศ.ดร.ไทยทัศน์ สุดสวนสี",
+      "en": "Asst. Prof. Dr. Thaithat Sudsuansee"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "กรรมการหลักสูตร",
+    "highestDegree": "ปริญญาเอก",
+    "education": [
+      {
+        "degree": "Ph.D.",
+        "field": "วิศวกรรมเครื่องกล",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+        "year": 2554
+      },
+      {
+        "degree": "Master",
+        "field": "วิศวกรรมเครื่องกล",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+        "year": 2543
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วิศวกรรมเครื่องกล",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ",
+        "year": 2540
+      }
+    ],
+    "expertise": [
+      "ระบบอัตโนมัติ (Automation)",
+      "การจำลองระบบ (Simulation)",
+      "อื่นๆ (โปรดระบุในช่องถัดไป)"
+    ],
+    "expertiseDetails": "CNC , Engineering Design and Analysis",
+    "teaching": "Computer Aid of Design, manufacturing and Engineering, ThermoFluids",
+    "research": {
+      "totalPublications": 10,
+      "recentWorks": "1.Multi-Response Optimization of Robotic Welding Parameters Using a Taguchi-Based Random Forest Model for Dissimilar Joining Materials\nA Lawong, S Nampromma, T Sudsuansee, S Sergsiri\nEngineering, Technology & Applied Science Research 15 (5), 27237-27243\t\t2025\n\n2. Design and Hydrodynamic Performance of Low Head Propeller Hydro Turbine for Wide Range High Efficiency Operation\nT Sudsuansee, S Phitaksurachai, R Pan-Aram, N Sritrakul, Y Tiaple\nInternational Journal of Thermofluids, 101228, 2025\n\n3. A Novel Method Using Two-stage Anaerobic Digestion Integrated with Greenhouse Solar Dryer for Increased Biogas Production\nT Sudsuansee, W Khanthirat, A Lawong, S Sergsiri\nCURRENT APPLIED SCIENCE AND TECHNOLOGY, 10.55003/cast. 2023.05. 23.002, 2023",
+      "ongoingProjects": "การวิจัยเชิงปฏิบัติการแบบมีส่วนร่วมเพื่อพัฒนาความฉลาดรู้ด้านการอ่านและการคิดอย่างมีวิจารณญาณสำหรับนักเรียนมัธยมศึกษาตอนต้นของสถานศึกษาสังกัดองค์กรปกครองส่วนท้องถิ่นผ่านการพัฒนาครูและบูรณาการการใช้ปัญญาประดิษฐ์ (AI) ในจังหวัดกาฬสินธุ์",
+      "interests": "computational fluids dynamics , energy engineering, AI"
+    },
+    "academicService": "ผู้ร่วมโครงการออมสินยุวพัฒน์รักษ์ถิ่น ปี 2565-ปัจจุบัน",
+    "experience": "หน่วยงานสำนักงานพัฒนาฝีมือแรงงานกาฬสินธุ์, บริษัท แป้งมันสมเด็จ จำกัด",
+    "awards": null,
+    "contact": {
+      "email": "thaithat.su@ksu.ac.th",
+      "officePhone": "0915166444",
+      "mobile": null,
+      "office": "311 อาคาร 3 วิศวกรรมอุตสาหการ"
+    },
+    "socialLinks": {
+      "googleScholar": "http://scholar.google.com/citations?user=4ZsTBF4AAAAJ&hl=th",
+      "researchGate": "http://www.researchgate.net/profile/Thaithat-Sudsuansee",
+      "linkedin": null,
+      "orcid": "0000-0003-1287-7232"
+    },
+    "photo": "/images/faculty/thaithat.png",
+    "workHistory": "พนักงานรัฐวิสาหกิจ การยาสูบแห่งประเทศไทย จำกัด",
+    "hobbies": null,
+    "messageToStudents": "ขยัน มุ่งมั่น ตั้งใจ จะสำเร็จได้ดังใจหวัง",
+    "additionalInfo": null
+  },
+  {
+    "id": 9,
+    "name": {
+      "th": "ผศ.ราชันย์ วงษ์ทวี",
+      "en": "Asst. Prof. Rachan  Vongtavee"
+    },
+    "title": "นาย",
+    "academicPosition": "ผู้ช่วยศาสตราจารย์",
+    "administrativePosition": "กรรมการหลักสูตร",
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "ครุศาสตร์อุตสาหกรรมมหาบัณฑิต ( ค.อ.ม.)วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี  ประเทศไทย",
+        "year": 2549
+      },
+      {
+        "degree": "Bachelor",
+        "field": "ครุศาสตร์อุตสาหกรรมมหาบัณฑิต (ค.อ.บ.) วิศวกรรมอุตสาหการ",
+        "institution": "สถาบัณเทคโนโลยีราชมงคล วิทยาเขตขอนแก่น",
+        "year": 2540
+      }
+    ],
+    "expertise": [
+      "วิศวกรรมความปลอดภัย (Safety Engineering)",
+      "อื่นๆ (โปรดระบุในช่องถัดไป)"
+    ],
+    "expertiseDetails": "การศึกษางานในอุตสาหกรรม",
+    "teaching": "งานชิ้นส่วนเครื่องกลทั่วไป การศึกษางานในอุตสาหกรรม วัสดุช่าง การเป็นผู้ประกอบการทางวิทยาศาสตร์และเทคโนโลยี",
+    "research": {
+      "totalPublications": 2,
+      "recentWorks": "1. การพัฒนาเตาฟืนประสิทธิภาพสูงบนพื้นฐานการวิเคราะห์ด้วยเทคนิค CFD. วารสารวิชาการเทคโนโลยีอุตสาหกรรม, 18 (3), 103-118.  DOI: 10.14416/j.ind.tech.2022.12.006  (ผู้ประพันธ์อันดับแรก TCI ฐาน 1)\n2. การพัฒนาเตาชีวมวลสำหรับการย้อมผ้าแบบวิถีถิ่นเดิมด้วยการประยุกต์วิธีการ DMAIC. วิศวกรรมสารฉบับวิจัยและพัฒนา, 33 (3), 59–67. (ผู้ประพันธ์อันดับแรก TCI ฐาน 2)",
+      "ongoingProjects": null,
+      "interests": "การวิจัยเตาหุงต้มเพื่อใช้ประกอบอาหารในครัวเรือน"
+    },
+    "academicService": "1. โครงการงานบริการทางวิชาการและวิทยากรการอบรม “การถ่ายทอดเทคโนโลยีการพัฒนาเตาฟืนประสิทธิภาพสูงบนพื้นฐานการวิเคราะห์ด้วยเทคนิค CFD เพื่อแก้ปัญหาการนึ่งก้อนเห็ดขอนขาวและเห็ดขอนดำ”ให้กับเกษตรกรที่สนใจฝึกอบรม จำนวน 10 คนในวันที่ 17  มีนาคม  2566 ณ ศูนย์เรียนรู้ต้นแบบเศรษฐกิจพอเพียงบ้านโหมนหมู่ 2 ต.ห้วยโพธิ์ อ.เมือง จ.กาฬสินธุ์ 46000 (โดยใช้งบประมาณส่วนตัว)\n2.โครงการอบรม AI",
+    "experience": "1.วิทยากรอบรมเรื่อง“การถ่ายทอดเทคโนโลยีไม้กวาดจากขวดพลาสติก”ในวันที่ 2 กุมภาพันธ์ 2564 และวิทยากรอบรมเรื่อง “การถ่ายทอดเทคโนโลยีเตาชีวมวล สำหรับหุงต้มอาหารในครัวเรือน”ในวันที่ 9 กุมภาพันธ์ 2564 ให้นักเรียนมัธยมศึกษาปีที่ 1-3 จำนวน 300 คน ณ หอประชุมอเนกประสงค์ โรงเรียนอนุกูลนารี อำเภอเมือง จังหวัดกาฬสินธุ์ (โดยใช้งบประมาณส่วนตัว) \n 2.วิทยากรอบรมเรื่อง“การใช้เตาชีวมวลประหยัดพลังงาน”ในงานสัปดาห์วันวิทยาศาสตร์ปีการศึกษา 2565 ณ โดมอเนกประสงค์โรงเรียนอนุบาลกาฬสินธุ์(เตาไห- ไผ่ทอง) อำเภอเมือง จังหวัดกาฬสินธุ์กาฬสินธุ์ในวันที่ 16 สิงหาคม 2565 ให้นักเรียนประถมศึกษาปีที่ 4 - 6 จำนวน 320 คน ได้รับการสนับสนุนงบประมาณจากโรงเรียนจำนวน 300  บาท (สามร้อยบาทถ้วน)",
+    "awards": null,
+    "contact": {
+      "email": "rachan.vo@ksu.ac.th",
+      "officePhone": null,
+      "mobile": "0850108439",
+      "office": "อาคารปฏิบัติการวิศวกรรมการผลิต ห้องกายศาสตร์และการศึกษางาน"
+    },
+    "socialLinks": {
+      "googleScholar": null,
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/rachan.png",
+    "workHistory": "บริษัทวิศกรรมจักรกลและโครงสร้าง และบริษัทยูโรเปียนฟู้ด จำกัดมหาชน",
+    "hobbies": "งานประดิษฐ์เตาชีวมวลเพื่อใช้ในการหุงต้ม",
+    "messageToStudents": "ครูให้ความใส่ใจแก่ลูกศิษย์ทุกคน",
+    "additionalInfo": "ให้คำปรึกษาแนะนำในการสมัครงานในโรงงานอุตสาหกรรมแก่ลูกศิษย์"
+  },
+  {
+    "id": 4,
+    "name": {
+      "th": "นางสาววราภรณ์ วโรรส",
+      "en": "Waraporn Warorot"
+    },
+    "title": "นางสาว",
+    "academicPosition": "อาจารย์",
+    "administrativePosition": null,
+    "highestDegree": "ปริญญาโท",
+    "education": [
+      {
+        "degree": "Master",
+        "field": "วศ.ม.วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยมหาวิทยาลัยขอนแก่น",
+        "year": 2561
+      },
+      {
+        "degree": "Bachelor",
+        "field": "วศ.บ.วิศวกรรมอุตสาหการ",
+        "institution": "มหาวิทยาลัยขอนแก่น",
+        "year": 2554
+      }
+    ],
+    "expertise": [
+      "การจัดการโซ่อุปทาน (Supply Chain Management)",
+      "การควบคุมคุณภาพ (Quality Control)",
+      "การจัดการลอจิสติกส์ (Logistics Management)"
+    ],
+    "expertiseDetails": "การวางแผนและควบคุมคุณภาพ",
+    "teaching": "การวางแผนและควบคุมคุณภาพ, การควบคุมคุณภาพ, การจัดการโลจิสติกส์และโซ่อุปทาน, การบริหารคุณภาพองค์กรสำหรับการบริหารคุณภาพองค์กรสำหรับ, การจัดการคลังสินค้า",
+    "research": {
+      "totalPublications": 5,
+      "recentWorks": "1. Atchara Choompol, Sarayut Gonwirat, Narong Wichapa, Anucha Sriburum, Sarayut Thitapars, Thanakorn Yarnguy, Noppakun Thongmual, Waraporn Warorot, Kiatipong Charoenjit, Ronnachai Sangmuenmao. (2025) Evaluating Optimal Deep Learning Models for Freshness Assessment of Silver Barb Through Technique for Order Preference by Similarity to Ideal Solution with Linear Programmin. Computers. (n.d.). Computers : An Open Access Journal from MDPI Computers 2025, 14(3), 105. \nแหล่งตีพิมพ์เผยแพร่ผลงาน :  https://www.mdpi.com/2073-431X/14/3/105 (Scorpus Q2)\n\n2. Narong Wichapa*; Waraporn Warorot. A Hybrid Approach for Ranking DecisionMaking Units with Fuzzy Variables. Industrial Engineering & Management Systems; Vol 22; No 2; June 2023; pp.97-108. \nแหล่งตีพิมพ์เผยแพร่ผลงาน : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11440749 (Scorpus Q2)\n\n3.อนุชา ศรีบุรัมย์, วรรณรพ ขันธิรัตน์, นรงค์ วิชาผา, อามิณฑ์ หล้าวงศ์, วราภรณ์ วโรรส,\nไทยทัศน์ สุดสวนสี, ศุภกิจ เศิกศิริ, เกียรติพงษ์ เจริญจิตต์, อนงค์นาถ โรจนกร วังคำหาญ,\nมัณฑนา ทองสพุล, และ อัจฉรา ชุมพล. (2566). วิธีการวิเคราะห์แบบล้อมกรอบข้อมูล-ทากุชิสำหรับการกำหนดพารามิเตอร์ที่เหมาะสมของเครื่องขอดเกล็ดปลาตะเพียน. วารสารวิชาการ\nเทคโนโลยีอุตสาหกรรม. 19(1), 63-80. \nแหล่งตีพิมพ์เผยแพร่ผลงาน :  \nhttps://ojs.kmutnb.ac.th/index.php/joindtech/article/view/6380 (TCI กลุ่มที่ 1)",
+      "ongoingProjects": "การจัดการคลังสินค้า, การพยากรณ์, การเพิ่มประสิทธิภาพการผลิต",
+      "interests": "การจัดการคลังสินค้า, การพยากรณ์, การเพิ่มประสิทธิภาพการผลิต"
+    },
+    "academicService": "โครงการยุวชนอาสา, โครงการออมยุวพัฒน์รักษ์ถิ่น, โครงการอบรมโลจิสติกส์สำหรับเกษตรกร",
+    "experience": "อบรมโลจิสติกส์สำหรับเกษตรกร,อบรมการเพิ่มประสิทธิภาพการผลิตในโครงการยุวชนอาสา",
+    "awards": null,
+    "contact": {
+      "email": "warapon.wa@ksu.ac.th",
+      "officePhone": null,
+      "mobile": null,
+      "office": "ห้อง 310 อาคารวิศวกรรมอุตสาหการ"
+    },
+    "socialLinks": {
+      "googleScholar": "https://scholar.google.com/citations?hl=th&view_op=list_works&gmla=AElLoL1a5te8s8rVkaytEiLHS0VC5q91l7Zs6bFpP6Dw18RjVfcb5SVl_W8nUHy2dQ6-DG7Zjgbqc6lwdpqZ35Lds5M-DfOH33BZY_8dttFMNBNgGOCoLKBaVQa9hEqs56VaoeF1Cykys8WIHHVvENGX9AQ1jkHpFCTuCUmY9sIpk67NB75YjiHo1d7BpQFHxCHO1xqaVGPJd4jjyoPI-_U6&user=lBlUoHYAAAAJ",
+      "researchGate": null,
+      "linkedin": null,
+      "orcid": null
+    },
+    "photo": "/images/faculty/waraporn.png",
+    "workHistory": "บริษัท สยามโกลบอลเฮ้าส์ จํากัด (มหาชน)",
+    "hobbies": null,
+    "messageToStudents": "มาเป็นครอบครัว IE KSU ด้วยกันนะคะ",
+    "additionalInfo": null
+  }
+]
