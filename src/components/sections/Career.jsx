@@ -181,6 +181,7 @@ const VideoPlayer = () => {
                 muted
                 loop
                 playsInline
+                controls
                 src="/videos/video-ie.mp4"
             />
         </div>
