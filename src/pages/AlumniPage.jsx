@@ -61,6 +61,39 @@ export function AlumniPage() {
                 </div>
             </div>
 
+            {/* Alumni Registration Section */}
+            <div className="bg-white border-b border-slate-200">
+                <div className="container mx-auto px-4 py-8 md:py-12">
+                    <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center gap-8 shadow-sm">
+                        <div className="flex-1 text-center md:text-left">
+                            <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-800 mb-4">
+                                ลงทะเบียนฐานข้อมูลศิษย์เก่า
+                            </h2>
+                            <p className="text-slate-600 text-lg leading-relaxed mb-6">
+                                ขอเชิญชวนพี่น้องศิษย์เก่าวิศวกรรมอุตสาหการ มหาวิทยาลัยกาฬสินธุ์ ทุกรุ่น
+                                ร่วมกรอกข้อมูลเพื่อสร้างเครือข่ายที่เข้มแข็ง รับข่าวสารกิจกรรม และโอกาสดีๆ จากทางสาขาวิชาฯ
+                            </p>
+                            <a
+                                href="https://forms.gle/kQLtdwzfqQpapyKU8"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center justify-center px-6 py-3 bg-amber-500 hover:bg-amber-600 text-white font-semibold rounded-xl transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-1"
+                            >
+                                ลงทะเบียนศิษย์เก่า (Register)
+                            </a>
+                        </div>
+                        <div className="flex-shrink-0 bg-white p-4 rounded-xl shadow-md border border-slate-100">
+                            <img
+                                src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://forms.gle/kQLtdwzfqQpapyKU8"
+                                alt="Alumni Registration QR Code"
+                                className="w-48 h-48 object-contain"
+                            />
+                            <p className="text-center text-slate-400 text-sm mt-2">Scan to Register</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             {/* Search Section */}
             <div className="bg-white shadow-sm border-b sticky top-16 z-30">
                 <div className="container mx-auto px-4 py-6">

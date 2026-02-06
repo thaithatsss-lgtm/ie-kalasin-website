@@ -165,6 +165,15 @@ export const translations = {
             project_1: "Industrial Consultancy",
             project_2: "Community Training"
         },
+        contact_page: {
+            title: "Contact Us",
+            department: "Department of Industrial Engineering",
+            faculty: "Faculty of Engineering and Industrial Technology",
+            university: "Kalasin University (Namoy Campus)",
+            address: "Mueang District, Kalasin Province 46000",
+            phone_label: "(Office)",
+            location_title: "Location"
+        },
         footer: {
             title_prefix: "Ready to",
             title_highlight: "Upgrade",
@@ -176,7 +185,7 @@ export const translations = {
             contact_title: "Contact Us",
             copyright: "© 2026 Department of Industrial Engineering, Kalasin University. All rights reserved.",
             address: "62/1 Bldg 3, Industrial Engineering, Kasetsomboon Rd., Kalasin, Mueang Kalasin, Kalasin 46000",
-            phone: "043-811128 , 081-799-5035, 080-245-3546",
+            phone: "081-799-5035, 088-574-2199",
             email: "engksu@ksu.ac.th",
             department: "IE Kalasin University"
         }
@@ -347,6 +356,15 @@ export const translations = {
             project_1: "ที่ปรึกษาโรงงานอุตสาหกรรม",
             project_2: "อบรมวิชาชีพสู่ชุมชน"
         },
+        contact_page: {
+            title: "ติดต่อเรา",
+            department: "สาขาวิชาวิศวกรรมอุตสาหการ",
+            faculty: "คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม",
+            university: "มหาวิทยาลัยกาฬสินธุ์",
+            address: "62/1 ถ.เกษตรสมบูรณ์ ต.กาฬสินธุ์ อ.เมือง จ.กาฬสินธุ์ 46000",
+            phone_label: "(สำนักงาน)",
+            location_title: "แผนที่ตั้ง"
+        },
         footer: {
             title_prefix: "พร้อมที่จะ",
             title_highlight: "ยกระดับ",
@@ -358,7 +376,7 @@ export const translations = {
             contact_title: "ติดต่อเรา",
             copyright: "© 2569 สาขาวิชาวิศวกรรมอุตสาหการ มหาวิทยาลัยกาฬสินธุ์",
             address: "62/1 อาคาร 3 วิศวกรรมอุตสาหการ ถ.เกษตรสมบูรณ์ ต.กาฬสินธุ์ อ.เมือง จ.กาฬสินธุ์ 46000",
-            phone: "043-811128 , 081-799-5035, 080-245-3546",
+            phone: "081-799-5035, 088-574-2199",
             email: "engksu@ksu.ac.th",
             department: "วิศวกรรมอุตสาหการ ม.กาฬสินธุ์"
         }
