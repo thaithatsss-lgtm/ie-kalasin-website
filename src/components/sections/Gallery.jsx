@@ -36,7 +36,7 @@ const GalleryItem = ({ image, title, spec, index }) => (
     </motion.div>
 );
 
-export function Gallery() {
+export function Gallery({ limit }) {
     const { t } = useLanguage();
 
     const images = [
@@ -47,6 +47,8 @@ export function Gallery() {
         { id: 'metrology', url: '/images/facilities/metrology.png', title_key: 'item_metrology', spec: 'Quality Assurance' },
         { id: 'laser', url: '/images/facilities/laser_cut.png', title_key: 'item_laser', spec: 'Precision Cutting' }
     ];
+
+    const displayImages = limit ? images.slice(0, limit) : images;
 
     return (
         <section id="facilities" className="py-24 bg-slate-950">
@@ -60,10 +62,15 @@ export function Gallery() {
                             {t('gallery.subtitle')}
                         </p>
                     </div>
+                    {limit && (
+                        <a href="/facilities" className="hidden md:inline-flex items-center px-6 py-3 rounded-full border border-slate-700 text-slate-300 hover:bg-slate-800 hover:text-white transition-colors">
+                            {t('activities.read_more')}
+                        </a>
+                    )}
                 </div>
 
                 <div className="columns-1 md:columns-2 lg:columns-3 gap-4 space-y-4">
-                    {images.map((img, idx) => (
+                    {displayImages.map((img, idx) => (
                         <GalleryItem
                             key={img.id}
                             image={img.url}
@@ -73,6 +80,14 @@ export function Gallery() {
                         />
                     ))}
                 </div>
+
+                {limit && (
+                    <div className="mt-8 text-center md:hidden">
+                        <a href="/facilities" className="inline-flex items-center px-6 py-3 rounded-full border border-slate-700 text-slate-300 hover:bg-slate-800 hover:text-white transition-colors">
+                            {t('activities.read_more')}
+                        </a>
+                    </div>
+                )}
             </div>
         </section>
     );

@@ -3,10 +3,14 @@ export const translations = {
         nav: {
             brand: "IE Kalasin",
             brand_sub: "Kalasin University",
+            curriculum_group: "Curriculum",
+            news_activities_group: "News & Activities",
             bachelor: "Bachelor's Degree",
             diploma: "High Vocational",
             facilities: "Facilities",
             career: "Career",
+            news: "News & PR",
+            alumni: "Alumni",
             personnel: "Personnel",
             activities: "Activities",
             services: "Services",
@@ -41,6 +45,12 @@ export const translations = {
             card2_desc: "Integrate physical machinery with digital intelligence for data-driven decision making.",
             card3_title: "Management & Logistics",
             card3_desc: "Leading teams and optimizing supply chains with modern ERP and simulation tools."
+        },
+        news: {
+            title_prefix: "News &",
+            title_highlight: "Public Relations",
+            title_suffix: "",
+            subtitle: "Stay updated with the latest activities, achievements, and announcements from the Department of Industrial Engineering."
         },
         gallery: {
             title_prefix: "Access",
@@ -175,10 +185,14 @@ export const translations = {
         nav: {
             brand: "วิศวกรรมอุตสาหการ",
             brand_sub: "มหาวิทยาลัยกาฬสินธุ์",
+            curriculum_group: "หลักสูตร",
+            news_activities_group: "ข่าวและกิจกรรม",
             bachelor: "หลักสูตรปริญญาตรี",
             diploma: "หลักสูตร ปวส.",
             facilities: "เครื่องมือ",
             career: "อาชีพ",
+            news: "ข่าวประชาสัมพันธ์",
+            alumni: "ศิษย์เก่า",
             personnel: "บุคลากร",
             activities: "กิจกรรม",
             services: "บริการวิชาการ",
@@ -213,6 +227,12 @@ export const translations = {
             card2_desc: "เรียนรู้การวิเคราะห์ข้อมูล การจำลองกระบวนการผลิต และการเพิ่มประสิทธิภาพ ด้วยโปรแกรมมาตรฐานสากล: Arena, Minitab, SolidWorks, Lingo",
             card3_title: "การจัดการและโลจิสติกส์",
             card3_desc: "ออกแบบระบบการผลิต วางแผนห่วงโซ่อุปทาน และบริหารทีมงาน ด้วยเครื่องมือวิเคราะห์และเทคนิคการเพิ่มประสิทธิภาพที่ใช้ในองค์กรชั้นนำ"
+        },
+        news: {
+            title_prefix: "ข่าวสารและ",
+            title_highlight: "ประชาสัมพันธ์",
+            title_suffix: "",
+            subtitle: "ติดตามความเคลื่อนไหว กิจกรรม และประกาศล่าสุดจากสาขาวิชาวิศวกรรมอุตสาหการ"
         },
         gallery: {
             title_prefix: "เข้าถึง",

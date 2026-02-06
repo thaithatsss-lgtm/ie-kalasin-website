@@ -3,24 +3,24 @@ import { motion } from 'framer-motion';
 import { useLanguage } from '../../context/LanguageContext';
 
 // Import new 3D icons
-import iconAutomation from '../../assets/icon_automation.png';
-import iconData from '../../assets/icon_data.png';
-import iconLogistics from '../../assets/icon_logistics.png';
+import automationImg from '../../assets/automation_illustration.jpg';
+import dataImg from '../../assets/data_engineering_illustration.jpg';
+import logisticsImg from '../../assets/logistics_illustration.jpg';
 
-const FeatureCard = ({ image, title, description, delay }) => (
+const FeatureCard = ({ image, title, description, delay, isIllustration }) => (
     <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.5, delay }}
         whileHover={{ y: -5 }}
-        className="group relative p-8 rounded-2xl bg-slate-800/50 border border-white/5 hover:border-blue-500/30 hover:bg-slate-800 transition-all duration-300 shadow-xl"
+        className="group relative p-8 rounded-2xl bg-slate-800/50 border border-white/5 hover:border-blue-500/30 hover:bg-slate-800 transition-all duration-300 shadow-xl overflow-hidden"
     >
         <div className="absolute inset-0 bg-gradient-to-br from-blue-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
 
         <div className="relative z-10">
-            <div className="w-20 h-20 rounded-2xl bg-slate-900/50 border border-white/10 flex items-center justify-center mb-6 group-hover:scale-110 group-hover:border-blue-500/30 transition-all duration-300 shadow-lg overflow-hidden p-2">
-                <img src={image} alt={title} className="w-full h-full object-contain" />
+            <div className={`rounded-2xl bg-slate-900/50 border border-white/10 flex items-center justify-center mb-6 group-hover:scale-105 group-hover:border-blue-500/30 transition-all duration-300 shadow-lg overflow-hidden ${isIllustration ? 'w-full h-48 p-0' : 'w-20 h-20 p-2'}`}>
+                <img src={image} alt={title} className={`w-full h-full ${isIllustration ? 'object-cover' : 'object-contain'}`} />
             </div>
 
             <h3 className="text-xl font-heading font-bold text-white mb-4 group-hover:text-blue-400 transition-colors">
@@ -54,22 +54,25 @@ export function ValueProp() {
 
                 <div className="grid md:grid-cols-3 gap-8">
                     <FeatureCard
-                        image={iconAutomation}
+                        image={automationImg}
                         title={t('valueProp.card1_title')}
                         description={t('valueProp.card1_desc')}
                         delay={0}
+                        isIllustration={true}
                     />
                     <FeatureCard
-                        image={iconData}
+                        image={dataImg}
                         title={t('valueProp.card2_title')}
                         description={t('valueProp.card2_desc')}
                         delay={0.1}
+                        isIllustration={true}
                     />
                     <FeatureCard
-                        image={iconLogistics}
+                        image={logisticsImg}
                         title={t('valueProp.card3_title')}
                         description={t('valueProp.card3_desc')}
                         delay={0.2}
+                        isIllustration={true}
                     />
                 </div>
             </div>

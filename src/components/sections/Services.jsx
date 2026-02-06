@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useLanguage } from '../../context/LanguageContext';
+import { useAuth } from '../../context/AuthContext';
+import { Link } from 'react-router-dom';
 import { Button } from '../ui/Button';
 import { Plus, Lock, X, Trash2, Upload } from 'lucide-react';
 import { initialServices } from '../../data/initialServices';
@@ -50,15 +52,9 @@ const Modal = ({ title, children, onClose }) => (
 
 export function Services() {
     const { t } = useLanguage();
+    const { isAdmin } = useAuth();
     const [services, setServices] = useState([]);
-    const [isAdmin, setIsAdmin] = useState(false);
-    const [showLogin, setShowLogin] = useState(false);
     const [showAdd, setShowAdd] = useState(false);
-
-    // Login Form State
-    const [username, setUsername] = useState('');
-    const [password, setPassword] = useState('');
-    const [loginError, setLoginError] = useState('');
 
     // Add Service Form State
     const [newService, setNewService] = useState({
@@ -75,29 +71,7 @@ export function Services() {
             setServices(initialServices);
             localStorage.setItem('services', JSON.stringify(initialServices));
         }
-
-        const adminSession = sessionStorage.getItem('isAdmin');
-        if (adminSession === 'true') setIsAdmin(true);
     }, []);
-
-    const handleLogin = (e) => {
-        e.preventDefault();
-        if (username === 'ttcsss' && password === 'plai1234') {
-            setIsAdmin(true);
-            sessionStorage.setItem('isAdmin', 'true');
-            setShowLogin(false);
-            setLoginError('');
-            setUsername('');
-            setPassword('');
-        } else {
-            setLoginError('Invalid credentials');
-        }
-    };
-
-    const handleLogout = () => {
-        setIsAdmin(false);
-        sessionStorage.removeItem('isAdmin');
-    };
 
     const handleAddService = (e) => {
         e.preventDefault();
@@ -144,18 +118,21 @@ export function Services() {
                                 <Button onClick={() => setShowAdd(true)} className="bg-green-600 hover:bg-green-700">
                                     <Plus className="w-4 h-4 mr-2" /> Add Service
                                 </Button>
-                                <Button variant="outline" onClick={handleLogout} className="text-red-400 border-red-400 hover:bg-red-400/10">
-                                    Logout
-                                </Button>
+                                <Link to="/admin">
+                                    <Button variant="outline" className="text-blue-400 border-blue-400 hover:bg-blue-400/10">
+                                        Dashboard
+                                    </Button>
+                                </Link>
                             </>
                         ) : (
-                            <button
-                                onClick={() => setShowLogin(true)}
-                                className="text-sm text-slate-400 hover:text-white flex items-center gap-2 px-3 py-1.5 rounded-lg hover:bg-white/5 transition-colors"
-                            >
-                                <Lock className="w-4 h-4" />
-                                <span>Admin</span>
-                            </button>
+                            <Link to="/login">
+                                <button
+                                    className="text-sm text-slate-400 hover:text-white flex items-center gap-2 px-3 py-1.5 rounded-lg hover:bg-white/5 transition-colors"
+                                >
+                                    <Lock className="w-4 h-4" />
+                                    <span>Admin</span>
+                                </button>
+                            </Link>
                         )}
                     </div>
                 </div>
@@ -171,34 +148,6 @@ export function Services() {
                     ))}
                 </div>
             </div>
-
-            {/* Login Modal */}
-            {showLogin && (
-                <Modal title="Admin Login" onClose={() => setShowLogin(false)}>
-                    <form onSubmit={handleLogin} className="space-y-4">
-                        <div>
-                            <label className="block text-slate-400 text-sm mb-1">Username</label>
-                            <input
-                                type="text"
-                                value={username}
-                                onChange={e => setUsername(e.target.value)}
-                                className="w-full bg-slate-800 border border-slate-700 rounded-lg p-2.5 text-white focus:ring-2 focus:ring-blue-500 outline-none"
-                            />
-                        </div>
-                        <div>
-                            <label className="block text-slate-400 text-sm mb-1">Password</label>
-                            <input
-                                type="password"
-                                value={password}
-                                onChange={e => setPassword(e.target.value)}
-                                className="w-full bg-slate-800 border border-slate-700 rounded-lg p-2.5 text-white focus:ring-2 focus:ring-blue-500 outline-none"
-                            />
-                        </div>
-                        {loginError && <p className="text-red-500 text-sm">{loginError}</p>}
-                        <Button type="submit" className="w-full">Login</Button>
-                    </form>
-                </Modal>
-            )}
 
             {/* Add Service Modal */}
             {showAdd && (
